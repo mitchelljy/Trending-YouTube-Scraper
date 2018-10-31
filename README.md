@@ -16,7 +16,7 @@ The only module needed that is not in the standard library is the `requests` mod
 
 ### Country Codes
 
-In order to run, the script needs country codes for the countries to collect trending videos from. These are 2 letter country abbreviations according to ISO 3166-1. A list of all existing ones can be found [https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes](here), however not all of these are assured to work with the YouTube API. This project comes with a list of 10 inside the `country_codes.txt` file.
+In order to run, the script needs country codes for the countries to collect trending videos from. These are 2 letter country abbreviations according to ISO 3166-1. A list of all existing ones can be found [here](https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes), however not all of these are assured to work with the YouTube API. This project comes with a list of 10 inside the `country_codes.txt` file.
 
 ## Running the Script
 
@@ -28,4 +28,4 @@ The script is fairly simple to run, it takes the following optional parameters:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
