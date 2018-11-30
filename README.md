@@ -2,6 +2,8 @@
 
 Originally used to build [this dataset](https://www.kaggle.com/datasnaek/youtube-new) on Kaggle, which has about 6 months worth of trending YouTube videos on it. This script will scrape the most relevant information from videos that are currently trending on YouTube in a specified set of countries. You can find example output files in the output directory.
 
+Trending YouTube videos for whatever country you are in currently can be found [here](https://www.youtube.com/feed/trending).
+
 ## Prerequisites
 
 ### API Key
